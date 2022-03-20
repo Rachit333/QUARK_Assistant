@@ -1,5 +1,5 @@
 # Created by Rachit Jasoria
-# Follow on Github: https://bit.ly/rachit_at_github
+# Follow on Github: https://bit.ly/rachit_codeworks
 import speech_recognition as sr
 import webbrowser
 from selenium import webdriver
