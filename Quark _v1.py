@@ -41,7 +41,7 @@ if is_connected() is False:
 
 elif is_connected() is True:
     driver = webdriver.Chrome(chrome_path, options=options)
-    engine.say("hey i am pav, your pesonal assistant! ")
+    engine.say("hey i am Quark, your pesonal assistant! ")
     engine.runAndWait()
     r=sr.Recognizer()
     with sr.Microphone() as source:
