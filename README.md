@@ -1,5 +1,6 @@
 # QUARK Assistant
-This is version1 of a narrow AI called "Quark" which is being developed by me.
-If you need help in instaling or running the narrow AI, open an issue regarding that.
+This is version1 of a narrow AI called "Quark", which was being developed by me.
 
-{ If you are interested in making this project together, DM me on instagram. Id: rachit_384400 }
+**This project is not being more developed. However I am looking forward to use this project in a ML based Conversational Chatbot and finally in a Desktop Bot(physical), named Quark, I will make it open source. This project will need 3D modeling, 3D printing, Software Developement, CAD, Electronics and much more hard tasks.**
+
+<sub><sup>As this is a hard project to do myself, I am looking for a person who is willing to give his/her time in this project. If you are interested to contribute in this project, contact me on Insta: rachit_384400.</sup></sub>
